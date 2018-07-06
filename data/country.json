@@ -1,0 +1,742 @@
+{
+	"165": {
+		"chis": "老挝",
+		"eng": "Laos"
+	},
+	"133": {
+		"chis": "布隆迪",
+		"eng": "Burundi"
+	},
+	"91": {
+		"chis": "乌兹别克斯坦",
+		"eng": "Uzbekistan"
+	},
+	"130": {
+		"chis": "卢旺达",
+		"eng": "Rwanda"
+	},
+	"137": {
+		"chis": "安道尔",
+		"eng": "Andorra"
+	},
+	"136": {
+		"chis": "斐济",
+		"eng": "Fiji"
+	},
+	"135": {
+		"chis": "博茨瓦纳",
+		"eng": "Botswana"
+	},
+	"134": {
+		"chis": "格林纳达",
+		"eng": "Grenada"
+	},
+	"139": {
+		"chis": "塞拉利昂",
+		"eng": "Sierra Leone"
+	},
+	"138": {
+		"chis": "贝宁",
+		"eng": "Benin"
+	},
+	"93": {
+		"chis": "阿曼",
+		"eng": "Oman"
+	},
+	"24": {
+		"chis": "巴拉圭",
+		"eng": "Paraguay"
+	},
+	"25": {
+		"chis": "韩国",
+		"eng": "South Korea"
+	},
+	"26": {
+		"chis": "罗马尼亚",
+		"eng": "Romania"
+	},
+	"27": {
+		"chis": "瑞典",
+		"eng": "Sweden"
+	},
+	"20": {
+		"chis": "葡萄牙",
+		"eng": "Portugal"
+	},
+	"21": {
+		"chis": "爱尔兰",
+		"eng": "Ireland"
+	},
+	"22": {
+		"chis": "捷克",
+		"eng": "Czech Republic"
+	},
+	"23": {
+		"chis": "比利时",
+		"eng": "Belgium"
+	},
+	"160": {
+		"chis": "尼泊尔",
+		"eng": "Nepal"
+	},
+	"28": {
+		"chis": "乌拉圭",
+		"eng": "Uruguay"
+	},
+	"29": {
+		"chis": "日本",
+		"eng": "Japan"
+	},
+	"94": {
+		"chis": "叙利亚",
+		"eng": "Syria"
+	},
+	"4": {
+		"chis": "塞尔维亚",
+		"eng": "Serbia"
+	},
+	"8": {
+		"chis": "哥斯达黎加",
+		"eng": "Costa Rica"
+	},
+	"96": {
+		"chis": "阿尔巴尼亚",
+		"eng": "Albania"
+	},
+	"68": {
+		"chis": "民主刚果",
+		"eng": "Democratic Rep Congo"
+	},
+	"120": {
+		"chis": "马来西亚",
+		"eng": "Malaysia"
+	},
+	"122": {
+		"chis": "圣基茨及尼维斯",
+		"eng": "St. Kitts and Nevis"
+	},
+	"123": {
+		"chis": "圣卢西亚",
+		"eng": "St Lucia"
+	},
+	"125": {
+		"chis": "莫桑比克",
+		"eng": "Mozambique"
+	},
+	"126": {
+		"chis": "毛里求斯",
+		"eng": "Mauritius"
+	},
+	"128": {
+		"chis": "朝鲜人民共和国",
+		"eng": "Korea DPR"
+	},
+	"129": {
+		"chis": "土库曼斯坦",
+		"eng": "Turkmenistan"
+	},
+	"59": {
+		"chis": "科特迪瓦",
+		"eng": "Ivory Coast"
+	},
+	"58": {
+		"chis": "津巴布韦",
+		"eng": "Zimbabwe"
+	},
+	"55": {
+		"chis": "匈牙利",
+		"eng": "Hungary"
+	},
+	"54": {
+		"chis": "斯洛伐克",
+		"eng": "Slovakia"
+	},
+	"57": {
+		"chis": "冰岛",
+		"eng": "Iceland"
+	},
+	"56": {
+		"chis": "苏格兰",
+		"eng": "Scotland"
+	},
+	"51": {
+		"chis": "以色列",
+		"eng": "Israel"
+	},
+	"50": {
+		"chis": "新西兰",
+		"eng": "New Zealand"
+	},
+	"53": {
+		"chis": "奥地利",
+		"eng": "Austria"
+	},
+	"52": {
+		"chis": "伊拉克",
+		"eng": "Iraq"
+	},
+	"179": {
+		"chis": "巴基斯坦",
+		"eng": "Pakistan"
+	},
+	"115": {
+		"chis": "几内亚",
+		"eng": "Guinea"
+	},
+	"114": {
+		"chis": "加蓬",
+		"eng": "Gabon"
+	},
+	"88": {
+		"chis": "委内瑞拉",
+		"eng": "Venezuela"
+	},
+	"89": {
+		"chis": "古巴",
+		"eng": "Cuba"
+	},
+	"111": {
+		"chis": "巴巴多斯",
+		"eng": "Barbados"
+	},
+	"110": {
+		"chis": "阿塞拜疆",
+		"eng": "Azerbaijan"
+	},
+	"113": {
+		"chis": "塔希提",
+		"eng": "Tahiti"
+	},
+	"112": {
+		"chis": "法罗群岛",
+		"eng": "Faroe Islands"
+	},
+	"82": {
+		"chis": "利比里亚",
+		"eng": "Liberia"
+	},
+	"83": {
+		"chis": "马里",
+		"eng": "Mali"
+	},
+	"80": {
+		"chis": "波黑",
+		"eng": "Bosnia and Herzegovina"
+	},
+	"81": {
+		"chis": "科威特",
+		"eng": "Kuwait"
+	},
+	"119": {
+		"chis": "马耳他",
+		"eng": "Malta"
+	},
+	"87": {
+		"chis": "约旦",
+		"eng": "Jordan"
+	},
+	"84": {
+		"chis": "塞浦路斯",
+		"eng": "Cyprus"
+	},
+	"85": {
+		"chis": "马其顿",
+		"eng": "FYR Macedonia"
+	},
+	"02": {
+		"chis": "美国",
+		"eng": "U.S.A"
+	},
+	"03": {
+		"chis": "丹麦",
+		"eng": "Denmark"
+	},
+	"01": {
+		"chis": "中国",
+		"eng": "China PR"
+	},
+	"04": {
+		"chis": "塞尔维亚",
+		"eng": "Serbia"
+	},
+	"05": {
+		"chis": "喀麦隆",
+		"eng": "Cameroon"
+	},
+	"3": {
+		"chis": "丹麦",
+		"eng": "Denmark"
+	},
+	"7": {
+		"chis": "俄罗斯",
+		"eng": "Russia"
+	},
+	"108": {
+		"chis": "哈萨克斯坦",
+		"eng": "Kazakhstan"
+	},
+	"109": {
+		"chis": "摩尔多瓦",
+		"eng": "Moldova"
+	},
+	"102": {
+		"chis": "巴林",
+		"eng": "Bahrain"
+	},
+	"103": {
+		"chis": "利比亚",
+		"eng": "Libya"
+	},
+	"100": {
+		"chis": "马达加斯加",
+		"eng": "Madagascar"
+	},
+	"101": {
+		"chis": "亚美尼亚",
+		"eng": "Armenia"
+	},
+	"106": {
+		"chis": "黎巴嫩",
+		"eng": "Lebanon"
+	},
+	"107": {
+		"chis": "乌干达",
+		"eng": "Uganda"
+	},
+	"104": {
+		"chis": "印度尼西亚",
+		"eng": "Indonesia"
+	},
+	"105": {
+		"chis": "苏丹",
+		"eng": "Sudan"
+	},
+	"39": {
+		"chis": "沙特",
+		"eng": "Saudi Arabia"
+	},
+	"38": {
+		"chis": "摩洛哥",
+		"eng": "Morocco"
+	},
+	"33": {
+		"chis": "厄瓜多尔",
+		"eng": "Ecuador"
+	},
+	"32": {
+		"chis": "塞内加尔",
+		"eng": "Senegal"
+	},
+	"31": {
+		"chis": "挪威",
+		"eng": "Norway"
+	},
+	"30": {
+		"chis": "尼日利亚",
+		"eng": "Nigeria"
+	},
+	"37": {
+		"chis": "波兰",
+		"eng": "Poland"
+	},
+	"36": {
+		"chis": "克罗地亚",
+		"eng": "Croatia"
+	},
+	"35": {
+		"chis": "斯洛文尼亚",
+		"eng": "Slovenia"
+	},
+	"34": {
+		"chis": "伊朗",
+		"eng": "Iran"
+	},
+	"162": {
+		"chis": "安提瓜和巴布达",
+		"eng": "Antigua and Barbuda"
+	},
+	"176": {
+		"chis": "毛里塔尼亚",
+		"eng": "Mauritania"
+	},
+	"60": {
+		"chis": "加纳",
+		"eng": "Ghana"
+	},
+	"61": {
+		"chis": "牙买加",
+		"eng": "Jamaica"
+	},
+	"62": {
+		"chis": "威尔士",
+		"eng": "Wales"
+	},
+	"63": {
+		"chis": "赞比亚",
+		"eng": "Zambia"
+	},
+	"64": {
+		"chis": "爱沙尼亚",
+		"eng": "Estonia"
+	},
+	"65": {
+		"chis": "秘鲁",
+		"eng": "Peru"
+	},
+	"66": {
+		"chis": "安哥拉",
+		"eng": "Angola"
+	},
+	"178": {
+		"chis": "中非",
+		"eng": "Central African Republic"
+	},
+	"177": {
+		"chis": "菲律宾",
+		"eng": "Philippines"
+	},
+	"69": {
+		"chis": "阿尔及利亚",
+		"eng": "Algeria"
+	},
+	"174": {
+		"chis": "汤加",
+		"eng": "Tonga"
+	},
+	"173": {
+		"chis": "柬埔寨",
+		"eng": "Cambodia"
+	},
+	"172": {
+		"chis": "乍得",
+		"eng": "Chad"
+	},
+	"171": {
+		"chis": "开曼群岛",
+		"eng": "Cayman Islands"
+	},
+	"170": {
+		"chis": "圭亚那",
+		"eng": "Guyana"
+	},
+	"182": {
+		"chis": "尼日尔",
+		"eng": "Niger"
+	},
+	"183": {
+		"chis": "塞舌尔",
+		"eng": "Seychelles"
+	},
+	"180": {
+		"chis": "库克群岛",
+		"eng": "Cook Islands"
+	},
+	"181": {
+		"chis": "荷属安的列斯群岛",
+		"eng": "Netherlands Antilles"
+	},
+	"186": {
+		"chis": "阿鲁巴",
+		"eng": "Aruba"
+	},
+	"187": {
+		"chis": "蒙古",
+		"eng": "Mongolia"
+	},
+	"184": {
+		"chis": "中国澳门",
+		"eng": "Macau"
+	},
+	"6": {
+		"chis": "哥伦比亚",
+		"eng": "Colombia"
+	},
+	"188": {
+		"chis": "赤道几内亚",
+		"eng": "Equatorial Guinea"
+	},
+	"189": {
+		"chis": "尼加拉瓜",
+		"eng": "Nicaragua"
+	},
+	"185": {
+		"chis": "巴哈马",
+		"eng": "Bahamas"
+	},
+	"99": {
+		"chis": "马拉维",
+		"eng": "Malawi"
+	},
+	"98": {
+		"chis": "立陶宛",
+		"eng": "Lithuania"
+	},
+	"168": {
+		"chis": "百慕大群岛",
+		"eng": "Bermuda"
+	},
+	"169": {
+		"chis": "巴布亚新几内亚",
+		"eng": "Papua New Guinea"
+	},
+	"164": {
+		"chis": "厄立特里亚",
+		"eng": "Eritrea"
+	},
+	"90": {
+		"chis": "肯尼亚",
+		"eng": "Kenya"
+	},
+	"166": {
+		"chis": "吉尔吉斯斯坦",
+		"eng": "Kyrgyzstan"
+	},
+	"92": {
+		"chis": "拉脱维亚",
+		"eng": "Latvia"
+	},
+	"95": {
+		"chis": "萨尔瓦多",
+		"eng": "El Salvador"
+	},
+	"161": {
+		"chis": "塔吉克斯坦",
+		"eng": "Tajikistan"
+	},
+	"97": {
+		"chis": "北爱尔兰",
+		"eng": "Northern Ireland"
+	},
+	"163": {
+		"chis": "中国台湾",
+		"eng": "Taiwan"
+	},
+	"11": {
+		"chis": "巴西",
+		"eng": "Brazil"
+	},
+	"10": {
+		"chis": "法国",
+		"eng": "France"
+	},
+	"13": {
+		"chis": "德国",
+		"eng": "Germany"
+	},
+	"12": {
+		"chis": "西班牙",
+		"eng": "Spain"
+	},
+	"15": {
+		"chis": "英格兰",
+		"eng": "England"
+	},
+	"14": {
+		"chis": "阿根廷",
+		"eng": "Agentina"
+	},
+	"17": {
+		"chis": "土耳其",
+		"eng": "Turkey"
+	},
+	"16": {
+		"chis": "墨西哥",
+		"eng": "Mexico"
+	},
+	"19": {
+		"chis": "意大利",
+		"eng": "Italy"
+	},
+	"18": {
+		"chis": "荷兰",
+		"eng": "Netherlands"
+	},
+	"117": {
+		"chis": "纳米比亚",
+		"eng": "Namibia"
+	},
+	"151": {
+		"chis": "多米尼加共和国",
+		"eng": "Dominican Republic"
+	},
+	"150": {
+		"chis": "马尔代夫",
+		"eng": "Maldives Republic"
+	},
+	"153": {
+		"chis": "孟加拉国",
+		"eng": "Bangladesh"
+	},
+	"152": {
+		"chis": "佛得角",
+		"eng": "Cape Verde Islands"
+	},
+	"155": {
+		"chis": "缅甸",
+		"eng": "Myanmar"
+	},
+	"154": {
+		"chis": "瓦努阿图",
+		"eng": "Vanuatu"
+	},
+	"157": {
+		"chis": "圣马力诺",
+		"eng": "San Marino"
+	},
+	"156": {
+		"chis": "伯利兹",
+		"eng": "Belize"
+	},
+	"159": {
+		"chis": "萨摩亚",
+		"eng": "Samoa"
+	},
+	"158": {
+		"chis": "英属维京群岛",
+		"eng": "British Virgin Islands"
+	},
+	"48": {
+		"chis": "特立尼达和多巴哥",
+		"eng": "Trinidad and Tobago"
+	},
+	"49": {
+		"chis": "希腊",
+		"eng": "Greece"
+	},
+	"46": {
+		"chis": "瑞士",
+		"eng": "Switzerland"
+	},
+	"86": {
+		"chis": "海地",
+		"eng": "Haiti"
+	},
+	"44": {
+		"chis": "芬兰",
+		"eng": "Finland"
+	},
+	"45": {
+		"chis": "澳大利亚",
+		"eng": "Australia"
+	},
+	"42": {
+		"chis": "洪都拉斯",
+		"eng": "Honduras"
+	},
+	"43": {
+		"chis": "保加利亚",
+		"eng": "Bulgaria"
+	},
+	"40": {
+		"chis": "突尼斯",
+		"eng": "Tunisia"
+	},
+	"118": {
+		"chis": "新加坡",
+		"eng": "Singapore"
+	},
+	"1": {
+		"chis": "中国",
+		"eng": "China PR"
+	},
+	"5": {
+		"chis": "喀麦隆",
+		"eng": "Cameroon"
+	},
+	"9": {
+		"chis": "南非",
+		"eng": "South Africa"
+	},
+	"146": {
+		"chis": "卢森堡",
+		"eng": "Luxembourg"
+	},
+	"147": {
+		"chis": "中国香港",
+		"eng": "Hong Kong"
+	},
+	"144": {
+		"chis": "也门",
+		"eng": "Yemen"
+	},
+	"145": {
+		"chis": "列支敦士登",
+		"eng": "Liechtenstein"
+	},
+	"142": {
+		"chis": "所罗门群岛",
+		"eng": "Solomon Islands"
+	},
+	"143": {
+		"chis": "苏里南",
+		"eng": "Surinam"
+	},
+	"140": {
+		"chis": "斯里兰卡",
+		"eng": "Sri Lanka"
+	},
+	"141": {
+		"chis": "冈比亚",
+		"eng": "Gambia"
+	},
+	"148": {
+		"chis": "坦桑尼亚",
+		"eng": "Tanzania"
+	},
+	"149": {
+		"chis": "巴勒斯坦",
+		"eng": "Palestine"
+	},
+	"77": {
+		"chis": "格鲁吉亚",
+		"eng": "Georgia"
+	},
+	"76": {
+		"chis": "多哥",
+		"eng": "Togo"
+	},
+	"75": {
+		"chis": "危地马拉",
+		"eng": "Guatemala"
+	},
+	"74": {
+		"chis": "白俄罗斯",
+		"eng": "Belarus"
+	},
+	"73": {
+		"chis": "布基纳法索",
+		"eng": "Burkina Faso"
+	},
+	"72": {
+		"chis": "加拿大",
+		"eng": "Canada"
+	},
+	"71": {
+		"chis": "泰国",
+		"eng": "Thailand"
+	},
+	"70": {
+		"chis": "卡塔尔",
+		"eng": "Qatar"
+	},
+	"79": {
+		"chis": "玻利维亚",
+		"eng": "Bolivia"
+	},
+	"78": {
+		"chis": "阿联酋",
+		"eng": "United Arab Emirates"
+	},
+	"2": {
+		"chis": "美国",
+		"eng": "U.S.A"
+	},
+	"41": {
+		"chis": "埃及",
+		"eng": "Egypt"
+	},
+	"47": {
+		"chis": "乌克兰",
+		"eng": "Ukraine"
+	}
+}
