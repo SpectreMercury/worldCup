@@ -7,14 +7,16 @@ def model_train_enter(team):
     format_data = format_data_process(split_data)
     return format_data
 
-def model_enter(team):
-    original_data = get_data_process(team)
+def model_enter(team, company):
+    original_data = get_data_process(team, False, company)
     split_data = split_data_process(original_data, team)
     format_data = format_data_process(split_data)
     return format_data
 
-def get_data_process(team, train=False):
+def get_data_process(team, train=False, company=None):
     file_path = '/Users/francis/Documents/worldCup/data/history/allteam/' + team + '.json'
+    if company == "William Hill":
+        file_path = '/Users/francis/Documents/worldCup/data/history/team/william_hill/' + team + '.json'
     file_ori = open(file_path,'r+')
     file_ori = file_ori.read()
     file_content = json.loads(file_ori)

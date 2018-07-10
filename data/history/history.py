@@ -11,8 +11,8 @@ def get_country_data():
     team_str = str(team)
     url = "http://liansai.500.com/index.php?c=teams&a=ajax_fixture&records=100&8&hoa=0&tid=" + team_str
     get_request(url, team_str)
+    print team
     time.sleep(2)
-
 
 
 def get_request(url, team):

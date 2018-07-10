@@ -3,26 +3,32 @@ import scipy
 from sklearn.linear_model import LogisticRegression
 import numpy as np
 import train_model
+import json
+
+TEAM = "6"
+AWAYTEAM = "29"
+Company = "William Hill"
+#Company = "Normal"
+HOME_WAGER = [3.2,3.0,2.4]
+AWAY_WAGER = [3.6,3.4,2.05]
 def get_data_process():
-    data = train_model.model_enter("10")
-   #print len(data["WIN"]) + len(data["LOST"]) + len(data["DRAW"])
-    # print 'WIN_ORI:', len(data["WIN"])
-    # print 'DRAW_ORI:', len(data["DRAW"])
-    # print 'LOST_ORI:', len(data["LOST"])
+    global Company
+    global TEAM
+    global HOME_WAGER
+    global AWAY_WAGER
+    data = train_model.model_enter(TEAM, Company)
     train_set = []
     train_set = win_data_process(data, train_set)
     train_set = draw_data_process(data, train_set)
     train_set = lost_data_process(data, train_set)
-    # train_set.append(win_data)
-    # train_set.append(draw_data)
-    # train_set.append(lost_data)
     print len(train_set)
     train_set = np.array(train_set, dtype=object)
     train_label = add_lable(data)
     print len(train_label)
     train_label = np.array(train_label, dtype=object)
-    test_data = np.array([[1.59, 3.88, 6.66]],  dtype=object)
+    test_data = np.array([HOME_WAGER],  dtype=object)
     train_data_process(train_set, train_label, test_data)
+
 def win_data_process(data, train_set):
     #print 'WIN:', len(data["WIN"])
     for i in range(len(data["WIN"])):
@@ -55,6 +61,9 @@ def add_lable(data):
 
 
 def train_data_process(train_data, train_label, t_data):
+    global TEAM
+    global AWAYTEAM
+    global Company
     clf = LogisticRegression()
     #print train_label
     clf.fit(train_data, train_label)
@@ -62,10 +71,15 @@ def train_data_process(train_data, train_label, t_data):
     result = clf.predict_proba(t_data)
     #print clf.predict(t_data)
     #print(clf.predict_proba(t_data))
-    # print '克罗地亚:', result[0][0]
-    # print 'Draw:', result[0][1]
-    # print '英格兰', result[0][2]
-    print result
+
+    file_content = open('/Users/francis/Documents/worldCup/data/country.json', 'r+')
+    file_content = file_content.read()
+    file_content = json.loads(file_content)
+    print Company, 'result is:'
+    print file_content[TEAM]["chis"] + ':', result[0][0]
+    print 'Draw:', result[0][1]
+    print file_content[AWAYTEAM]["chis"], result[0][2]
+    #print result
     return result
 
 def trainning_process():
@@ -119,4 +133,5 @@ def train_lost_data_process(data, data_set, data_label):
         data_set.append(data["LOST"][i])
         data_label.append("LOST")
     return data_set, data_label
-trainning_process()
+#trainning_process()
+get_data_process()
