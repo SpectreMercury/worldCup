@@ -5,11 +5,11 @@ import numpy as np
 import train_model
 import json
 
-TEAM = "6"
-AWAYTEAM = "29"
+TEAM = "15"
+AWAYTEAM = "36"
 Company = "William Hill"
 #Company = "Normal"
-HOME_WAGER = [3.2,3.0,2.4]
+HOME_WAGER = [2.30,3.00,3.40]
 AWAY_WAGER = [3.6,3.4,2.05]
 def get_data_process():
     global Company

@@ -3,7 +3,7 @@ import json
 import time
 
 FIXTUREID_STR = ''
-team = "6"
+team = "36"
 def enter():
   global FIXTUREID_STR
   global team
